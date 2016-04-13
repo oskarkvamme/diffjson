@@ -12,8 +12,6 @@ if(!program.file1 && !program.file2){
     return;
 }
 
-console.log(program.file1);
-
 var nb = fs.readFileSync(program.file1, {encoding: 'utf-8'});
 var en = fs.readFileSync(program.file2, {encoding: 'utf-8'});
 

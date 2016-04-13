@@ -1,0 +1,14 @@
+{
+  "name": "diffjson",
+  "version": "0.1.0",
+  "description": "Find keys that does not exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oskar Kvamme",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
